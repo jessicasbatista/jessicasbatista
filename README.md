@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<div align="center">
  <br>
   <a href="https://github.com/jessicasbatista">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicasbatista&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
