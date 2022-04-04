@@ -1,7 +1,7 @@
 ## Olá! Sejam bem-vindos! 👋
 
 
-- 🔭 Atualmente trabalho como Analista de Testes
+- 🔭 Atualmente trabalho como Analista de Testes Jr.
 - 🌱 Estudando Java e frameworks de automação web como o Selenium, Cypress, e automação de testes de API com Rest Assured
 
 <!--
